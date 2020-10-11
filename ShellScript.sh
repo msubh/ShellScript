@@ -1,4 +1,5 @@
 hostname
 date
-#df -hT
+date
+df -hT
 

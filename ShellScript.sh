@@ -1,3 +1,3 @@
-hostname
+hostname1
 date
 df -hT
